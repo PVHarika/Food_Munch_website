@@ -16,4 +16,5 @@ This is a basic website for a food munch service. It showcases various food item
 
 ![image](https://github.com/PVHarika/Food_Munch_website/assets/147228955/676eb760-d3e1-4c53-a76b-0711d3397da0)
 
+![image](https://github.com/PVHarika/Food_Munch_website/assets/147228955/88101f50-d530-4a56-b2e7-9feaab8e1b8b)
 
