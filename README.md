@@ -1,5 +1,13 @@
-# Food_Munch_website
-Author : P.V.Harika 
-<br>
-This is a website designed using Bootstrap,HTML and CSS
-It is the my first website 
+# Basic Food Munch Website
+
+This is a basic website for a food munch service. It showcases various food items available for munching.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+
+## Usage
+
+- Clone the repository.
+- Open `index.html` in a web browser to view the website.
